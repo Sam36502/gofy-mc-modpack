@@ -2,7 +2,7 @@
 
 ## Information
 
-- Modpack Version: **1.0.0**
+- Modpack Version: **1.1**
 - Minecraft Version: **1.18**
 
 ## Mod List
