@@ -1,4 +1,4 @@
-# Gofypack
+# Crack Pack
 
 ## Information
 
